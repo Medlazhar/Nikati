@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">نقاطي</string>
+    <string name="tagline">نقاطي (NIKATI) - المنصة الشاملة لأساتذة التعليم المتوسط (الرقمنة)</string>
+    <string name="tab_classes">الأفواج والتلاميذ</string>
+    <string name="tab_scanner">مسح الرمز (QR)</string>
+    <string name="tab_print">طباعة البطاقات</string>
+    <string name="tab_import">استيراد وإدخال</string>
+    <string name="tab_sync">تصدير الملف</string>
+    <string name="send_excel_email">إرسال كشف Excel عبر البريد</string>
+    <string name="excel_format_xlsx">ملف Microsoft Excel (.xlsx)</string>
+    <string name="excel_format_csv">ملف جدول Excel (.csv)</string>
+</resources>

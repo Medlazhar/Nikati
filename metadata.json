@@ -1,0 +1,10 @@
+{
+  "name": "نقاطي",
+  "description": "تطبيق نقاطي (NIKATI): المنظومة المتكاملة لأساتذة التعليم المتوسط بالجزائر لتسيير النقاط، استيراد جداول الرقمنة Excel، توليد وطباعة بطاقات QR، ومسح فوري للنقاط مع تصدير وإرسال النتائج عبر البريد الإلكتروني.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
